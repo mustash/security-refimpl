@@ -1,30 +1,35 @@
-# security-refimpl
-Reference implementations of common security controls on web frameworks like Spring, Struts, .NET MVC, etc.
+<b>OUTLINE</b>
+</br>
+Intended to be one giant project, containing reference implementations of common security controls on web frameworks like Spring, Struts, .NET MVC, etc.
 
 Gathering info for now ... check back later. Have any hip new framework to suggest for inclusion here? Contact the author.
 
-INITIAL LIST
+<b>INITIAL LIST</b>
+<br/>
+<ol>
+<li>Spring
+<ol>
+<li>	Authentication</li>
+<li>	Authorization</li>
+</ol>
+</li>
+<li>Struts</li>
+<li>NET MVC</li>
+<li>Grails?</li>
+<li>AngularJS</li>
+<li>Node.js</li>
+<li>Lithium?/PHP</li>
+<li>Ruby on Rails</li>
+<li>Django</li>
+</ol>
 
-1. Spring
-	Authentication
-	Authorization
-2. Struts
-3. .NET MVC
-4. Grails?
-5. AngularJS
-6. Node.js
-7. Lithium?/PHP
-8. Ruby on Rails
-9. Django
-
-
-PREMISE
+<b>PREMISE</b>
 
 What if there was a better way than looking up 1500 StackOverflow posts every time you started from scratch, implementing a new framework in your world-changing application?
 
-What if you didn't have to visit Apache to discover how to secure Struts?
-What if you didn't have to visit Spring to discover how Spring Security works?
-What if you could have a reference impl to help you begin securing any given web framework, all in one place?
+What if you didn't have to visit Apache to discover how to secure Struts?<br/>
+What if you didn't have to visit Spring to discover how Spring Security works?<br/>
+What if you could have a reference impl to help you begin securing any given web framework, all in one place?<br/>
 
 What if that one place could be .... here?
 
